@@ -1,4 +1,4 @@
-# bn6
+# BN6
 BooguNote 6. An outline note tool.
 
 ### To run
