@@ -1,5 +1,5 @@
-# BN6
-BooguNote 6. An outline note tool.
+# BooguX
+An outline tool.
 
 ### To run
 
